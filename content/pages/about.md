@@ -1,21 +1,17 @@
 ---
-title: 'About me'
+title: 'Sobre mi'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mi"
 ---
 
-## Who am I
+## Quien soy yo
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí vas a leer un poco sobre mi :3
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy una persona que le gusta programar.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+-Soy del estado de México.
+-Me gusta aprender cosas nuevas.
+-Tengo como pasatiempo tocar la guitarra.
+-Me considero una persona responsable.
